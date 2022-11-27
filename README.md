@@ -15,4 +15,6 @@ Express.js veya Express, MIT Lisansı altında ücretsiz ve açık kaynaklı yaz
 ## Mongoose
 Mongoose, MongoDB ile Node.js JavaScript çalışma zamanı ortamı arasında bir bağlantı oluşturan bir JavaScript nesne yönelimli programlama kitaplığıdır.
 
+Ana sayfa aşağıdaki gibidir. 
+
 ![image](https://user-images.githubusercontent.com/64710251/204153850-003aa858-378d-4dbc-9763-e15b3cd971e1.png)
